@@ -18,10 +18,6 @@
 
 ## More About Me
 
-<table>
-<tr>
-<td width="55%" valign="top" align="left">
-
 - 🎓 Pursuing a **Bachelor of Computer Applications (BCA)**
 - 📚 Actively learning **C**, **C++**, and **Python**
 - 🤖 Interested in **Artificial Intelligence & Machine Learning**
@@ -30,18 +26,17 @@
 - 🗺️ Recent work: **[PunjabCrimeLens](https://github.com/ShashankJindaldev/PunjabCrimeLens)**, a data-driven crime analytics and forecasting dashboard
 - 🧱 Building foundational C projects in **[BCA-Sem.1-C](https://github.com/ShashankJindaldev/BCA-Sem.1-C)**
 
-</td>
-<td width="45%" valign="middle" align="center">
+<br/>
 
+## Contribution Snake
+
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShashankJindaldev/ShashankJindaldev/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShashankJindaldev/ShashankJindaldev/output/github-contribution-grid-snake.svg"/>
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ShashankJindaldev/ShashankJindaldev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
-
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
@@ -65,10 +60,6 @@
 
 ## Featured Projects
 
-<table align="center" width="100%">
-<tr>
-<td width="100%" valign="top">
-
 ### 🗺️ [PunjabCrimeLens](https://github.com/ShashankJindaldev/PunjabCrimeLens)
 
 A decoupled machine learning dashboard for district-level crime analytics and interval forecasting across Punjab, driven by CSV uploads.
@@ -81,10 +72,6 @@ A decoupled machine learning dashboard for district-level crime analytics and in
 <img src="https://img.shields.io/badge/Machine%20Learning-c084fc?style=flat-square" alt="Machine Learning"/>
 
 [**View Repository →**](https://github.com/ShashankJindaldev/PunjabCrimeLens)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
